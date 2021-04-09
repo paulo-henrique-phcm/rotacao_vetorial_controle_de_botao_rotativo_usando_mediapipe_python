@@ -9,4 +9,4 @@ Abaixo, um teste que fiz com o código:</br>
 </br>
 </br>
 </br>
-Logo mais pretendo ir brincando e implementando outras funcionalidades com base na física e cálculo.
+Logo mais pretendo ir brincando e implementando outras funcionalidades com base na física e cálculo, uma vez que a biblioteca fornece coordenadas aproximadas para 3 dimenções, expandindo ainda mais as possibilidades de aplicação.
