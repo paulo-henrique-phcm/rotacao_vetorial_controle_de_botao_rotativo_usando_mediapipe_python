@@ -6,3 +6,7 @@ Esta brincadeira feita durante um feriado, me fez relembrar conteudos de vetores
 </br>
 Abaixo, um teste que fiz com o código:</br>
 ![](gif_video_teste_mediapipe.gif)
+</br>
+</br>
+</br>
+Logo mais pretendo ir brincando e implementando outras funcionalidades com base na física e cálculo.
